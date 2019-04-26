@@ -4,7 +4,10 @@
 
 
 
-Currently, we are try our best to implement LLVM API in Java. Therefore, our tool may not support all the features in LLVM. If you meet any problems, please feel free to email me at guzx14@mails.tsinghua.edu.cn.
+Currently, we are try our best to implement LLVM API in Java. Therefore, our tool may not support all the features in LLVM. If you meet any problems, please feel free to email me at，
+
+* Chi Li, chi-li18@mails.tsinghua.edu.cn
+* Zuxing Gu, guzx14@mails.tsinghua.edu.cn
 
 ### Prerequisites
 
@@ -142,7 +145,6 @@ We have prepare a video to direct the usage, click here TODO
 
        ![](images/result.png)
 
-   
 
 ### Benchmark Composition
 
@@ -257,5 +259,4 @@ To evaluate the state-of-the-art static analysis tools, we have conducted an exp
     # all the result is saved in 
     ```
 
-    
 
